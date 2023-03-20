@@ -1,0 +1,6 @@
+
+$animalColors = array("Frogs" => "green", "Bears" => "black", "Foxes" => "red", "Valley Coastals" => "sunkisse5d");
+
+foreach ($animalColours as $animal => $colour) {
+    echo $animal." ".$colour.'<br />';
+}
